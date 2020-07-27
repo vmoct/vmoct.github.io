@@ -1,6 +1,8 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile
   HRef="../Electro-Cadduino%20Carts%20I%20&amp;%20II%20-%20Operation%20W%20Images%20Pub%20V2.htm"/>
+ <o:File HRef="item0001.xml"/>
+ <o:File HRef="props002.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.jpg"/>
@@ -37,6 +39,10 @@
  <o:File HRef="image032.jpg"/>
  <o:File HRef="image033.jpg"/>
  <o:File HRef="image034.jpg"/>
+ <o:File HRef="image035.png"/>
+ <o:File HRef="image036.png"/>
+ <o:File HRef="image037.jpg"/>
+ <o:File HRef="image038.png"/>
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
